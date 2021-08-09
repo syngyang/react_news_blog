@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+npm run start
+Json server 사용하므로, 다른 터미널을 열어서...
+npx json-server --watch data/db.json --port 8000
 
 ## Available Scripts
 
